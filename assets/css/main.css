@@ -3909,17 +3909,7 @@ input, select, textarea {
 
 		}
 
-/* Intro spacing tweaks */
-#intro p {
-	margin-bottom: 0rem;
-}
-
-#intro .icons {
-	margin-top: 0;
-	margin-bottom: 0rem;
-}
-
-#intro .actions {
-	margin-top: 0;
+#intro .inner > * {
+	margin-bottom: 0;
 }
 
