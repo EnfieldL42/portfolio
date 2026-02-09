@@ -3915,4 +3915,9 @@ input, select, textarea {
 	
 }
 
+#intro h1 {
+	margin-bottom: 0;
+}
+
+
 
