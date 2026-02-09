@@ -3909,7 +3909,6 @@ input, select, textarea {
 
 		}
 
-#intro .inner > * {
-	margin-bottom: 0;
+.wrapper .inner > * {
+	margin-bottom: 2em;
 }
-
