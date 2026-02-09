@@ -3909,6 +3909,6 @@ input, select, textarea {
 
 		}
 
-#intro .inner > * {
-	margin-bottom: 0;
+#intro ul {
+	margin: 0;
 }
